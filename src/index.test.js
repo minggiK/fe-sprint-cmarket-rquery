@@ -1,0 +1,1 @@
+import "./pages/__test__/index.test";
